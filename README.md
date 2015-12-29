@@ -5,10 +5,7 @@ Thanks to sandeepmistry/node-flower-power (https://github.com/sandeepmistry/node
 
 ### Pre-requisites
 
-- A USB Bluetooth LE dongle to plug on your RPi :-)
-
-- Install some dependencies :
-
+* USB Bluetooth LE dongle to plug on your RPi :-)
 * sudo apt-get install libbluetooth-dev
 * npm install noble
 * npm install flower-power
