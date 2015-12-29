@@ -9,9 +9,8 @@ Thanks to sandeepmistry/node-flower-power (https://github.com/sandeepmistry/node
 
 - Install some dependencies :
 
-``sudo apt-get install libbluetooth-dev``
-
-``npm install noble
-npm install flower-power
-npm install async``
+* sudo apt-get install libbluetooth-dev
+* npm install noble
+* npm install flower-power
+* npm install async
 
